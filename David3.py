@@ -1,1 +1,1 @@
-print("David3 el diablo")
+print("David3 ya vamos 2h")
